@@ -38,7 +38,7 @@ body {
 }
 
 h1 {
-    padding-top: 3vh; /* Flexible padding */
+    padding-top: 8vh; /* Flexible padding */
     font-size: 4vh; /* Flexible font size */
 }
 
@@ -53,6 +53,7 @@ h1 {
 }
 
 footer {
+    padding-top: 2vh;
     display: flex;
     justify-content: space-between;
     margin-top: auto;
@@ -86,13 +87,13 @@ input {
 }
 
 .question {
-    font-size: 2vh; /* Flexible font size */
+    font-size: 3vh; /* Flexible font size */
     margin-bottom: auto;
     font-family: "Playfair Display", serif;
 }
 
 .option-btn {
-    width: 100%;
+    width: 70vw;
     height: 35px;
     margin: 10px 0;
     border-radius: 20px;

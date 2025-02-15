@@ -104,7 +104,7 @@ function selectOption(option, inputElement) {
         } else {
             showResult();
         }
-    }, 1500); // Delay before loading next question
+    }, 1000); // Delay before loading next question
 }
 
 function showResult() {

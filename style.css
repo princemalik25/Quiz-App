@@ -11,13 +11,13 @@ body {
     height: 100vh;
     background-image: linear-gradient(to bottom right, #FBB2FE, #A973F6, #381CE9);
     font-family: Arial, Helvetica, sans-serif;
-    padding: 10px; /* Added padding for small screens */
+    padding: 10px; 
 }
 
 .container {
     max-height: 80vh;
-    width: 90vw; /* Changed to flexible width */
-    max-width: 600px; /* Maximum width for larger screens */
+    width: 90vw; 
+    max-width: 600px; 
     border: 2px solid black;
     padding: 20px;
     background-color: white;
@@ -38,8 +38,8 @@ body {
 }
 
 h1 {
-    padding-top: 8vh; /* Flexible padding */
-    font-size: 4vh; /* Flexible font size */
+    padding-top: 8vh; 
+    font-size: 4vh; 
 }
 
 .quiz {
@@ -49,7 +49,7 @@ h1 {
     justify-content: center;
     align-items: center;
     overflow-y: auto;
-    padding-top: 4vh; /* Flexible padding */
+    padding-top: 4vh; 
 }
 
 footer {
@@ -77,17 +77,17 @@ button:hover {
 }
 
 input {
-    width: 85%; /* Flexible width */
+    width: 85%; 
     height: 35px;
     margin: 10px;
     border-radius: 20px;
     padding-left: 10px;
-    font-size: 2vh; /* Flexible font size */
+    font-size: 2vh; 
     font-family: "Playfair Display", serif;
 }
 
 .question {
-    font-size: 3vh; /* Flexible font size */
+    font-size: 3vh; 
     margin-bottom: auto;
     font-family: "Playfair Display", serif;
 }
@@ -98,7 +98,7 @@ input {
     margin: 10px 0;
     border-radius: 20px;
     padding-left: 10px;
-    font-size: 2vh; /* Flexible font size */
+    font-size: 2vh; 
     font-family: "Playfair Display", serif;
     background-color: #fff;
     border: 1px solid #381CE9;

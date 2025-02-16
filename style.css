@@ -128,7 +128,7 @@ button:disabled {
     }
 
     h1 {
-        font-size: 3vh;
+        font-size: 5vh;
     }
 
     input {
@@ -136,11 +136,14 @@ button:disabled {
     }
 
     .option-btn {
-        font-size: 1.5vh;
+        font-size: 2vh;
+        width: 75vw;
     }
 
     .question {
-        font-size: 1.5vh;
+        font-size: 2.5vh;
+        margin: auto;
+        padding-left: 5vw;
     }
 }
 

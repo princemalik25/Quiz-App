@@ -38,8 +38,8 @@ body {
 }
 
 h1 {
-    padding-top: 8vh; 
-    font-size: 4vh; 
+    padding-top: 6.5vh; 
+    font-size: 6vh; 
 }
 
 .quiz {
@@ -87,9 +87,10 @@ input {
 }
 
 .question {
-    font-size: 3vh; 
+    font-size: 3.5vh; 
     margin-bottom: auto;
     font-family: "Playfair Display", serif;
+    padding-left: 2vw;
 }
 
 .option-btn {
@@ -98,7 +99,7 @@ input {
     margin: 10px 0;
     border-radius: 20px;
     padding-left: 10px;
-    font-size: 2vh; 
+    font-size: 3vh; 
     font-family: "Playfair Display", serif;
     background-color: #fff;
     border: 1px solid #381CE9;
@@ -129,6 +130,7 @@ button:disabled {
 
     h1 {
         font-size: 5vh;
+        padding-top: 7vh;
     }
 
     input {
